@@ -1,0 +1,7 @@
+!.gitignore
+/log/
+*.txt
+config.php
+/ex/
+.idea/
+/vendor/
